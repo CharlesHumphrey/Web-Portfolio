@@ -1,0 +1,21 @@
+html {
+  scroll-behavior: smooth;
+}
+.icon-color {
+  fill: #4b5563;
+}
+.icon-color-white {
+  fill: whitesmoke;
+}
+.laravel-text {
+  color: #ff2d20;
+}
+.firebase-text {
+  color: #fcca3f;
+}
+.tailwind-text {
+  color: #44a8b3;
+}
+.javascript-text {
+  color: #f7df1e;
+}
